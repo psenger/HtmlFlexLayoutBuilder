@@ -109,6 +109,7 @@
 .texlipse
 .vscode-test
 .vuepress/dist
+.webpack/
 .worksheet
 .yarn-integrity
 .yarn/build-state.yml

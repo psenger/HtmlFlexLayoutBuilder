@@ -1,6 +1,7 @@
-# repo name
+# HTML Flex Layout Builder
 
-> Summary
+
+> I built this tool as a Electron App to help me do Flex Layouts.
 
 ## Table of Contents
 
