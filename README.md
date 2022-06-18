@@ -1,7 +1,6 @@
 # HTML Flex Layout Builder
 
-
-> I built this tool as a Electron App to help me do Flex Layouts.
+> I built this tool as an Electron App to help me do Flex Layouts.
 
 ## Table of Contents
 

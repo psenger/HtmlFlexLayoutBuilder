@@ -11,6 +11,12 @@ const ContainerDiv = styled.div`
   & div {
     flex-grow:1;
   }
+  & div:first-child {
+    max-width: 500px;
+  }
+  & div:last-child {
+    max-width: 500px;
+  }
 `
 
 function App () {
